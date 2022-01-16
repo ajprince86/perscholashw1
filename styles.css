@@ -1,0 +1,102 @@
+h2 {
+  text-decoration: underline;
+}
+p {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: lightgray;
+}
+
+a {
+  color: purple;
+}
+
+p {
+  color: blue;
+  font-size: 18px;
+}
+
+li {
+  font-weight: bold;
+  font-style: italic;
+}
+
+a {
+  color: purple;
+}
+th {
+  color: red;
+}
+.huskies {
+  font-size: 24px;
+}
+
+section {
+  position: relative;
+  margin-bottom: 0;
+}
+
+#green {
+  background-color: green;
+  height: 100px;
+  width: 400px;
+}
+#black {
+  position: relative;
+  bottom: 80px;
+  background-color: black;
+  height: 100px;
+  width: 400px;
+}
+#white {
+  position: relative;
+  bottom: 50px;
+  background-color: white;
+  width: 400px;
+  height: 100px;
+  color: blue;
+}
+
+#yellow {
+  text-align: center;
+  position: absolute;
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  top: 260px;
+  left: 120px;
+  border-radius: 30%;
+}
+
+#yellow p {
+  color: purple;
+}
+
+#red {
+  bottom: 300px;
+  position: relative;
+  left: 50px;
+  margin-top: 30px;
+  width: 400px;
+  height: 100px;
+  background-color: red;
+}
+#green p {
+  color: yellow;
+}
+#red p {
+  color: white;
+}
+#white p {
+  color: red;
+}
+
+.inline-h2 {
+  text-decoration: none;
+  display: inline;
+}
