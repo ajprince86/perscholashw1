@@ -71,6 +71,7 @@ section {
   top: 260px;
   left: 120px;
   border-radius: 30%;
+  box-shadow: 10px 5px 5px red;
 }
 
 #yellow p {
